@@ -7,8 +7,8 @@ Welcome to the Marketing Common Data Modelling Challenge!
 At Improvado, we use Marketing Common Data Models (MCDM) to map data from various ad platforms into a single model. MCDM helps marketers answer questions like: "Where are the clicks better, on Facebook or TikTok?"
 
 Imagine the MCDM model behind a dashboard is somehow lost. You need to rebuild it. You have:
-- Raw data from the ad systems (located in the `seeds` folder),
-- The MCDM table structure for this report,
+- Raw data from the ad systems (located in the `seeds` folder).
+- The MCDM table structure for this report.
 - [The dashboard](https://lookerstudio.google.com/reporting/fa668749-b82f-41a8-a12e-f7d9c0733b57/page/tEnnC).
 
 To help guide you through this process, here's a checklist you can follow (or not):
@@ -46,8 +46,7 @@ Here are some resources to help you get started with the necessary tools:
         - Models and Sources (40 minutes)
     - [dbt Cloud and BigQuery for Admins](https://courses.getdbt.com/courses/dbt-cloud-and-bigquery-for-admins) (35 minutes)
 - [How to Use Google BigQuery for FREE](https://levelup.gitconnected.com/how-to-use-google-bigquery-for-free-9c2a65e3a78c#)
-- **How to create a dashboard in Google Looker Studio with Google BigQuery**:
-    - ![](https://github.com/technomonah/dbt_mcdm_challenge/blob/main/how_to_export_gbq_to_looker.gif)
+- **How to create a dashboard in Google Looker Studio with Google BigQuery**: ![](https://github.com/technomonah/dbt_mcdm_challenge/blob/main/how_to_export_gbq_to_looker.gif)
 
 ### Additional Resources:
 
