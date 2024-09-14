@@ -25,10 +25,10 @@ Please provide your answer using the [Typeform link](https://improvado.typeform.
 ## Hints
 
 Here are some helpful tips:
+- **Conversion cost** is calculated by dividing the total `spend` by the number of conversions.
 - **Cost per engagement** is the total spent divided by the number of engagements.
-- **Conversion cost** is calculated by dividing the total `spended` by the number of conversions.
 - **Impressions by channel** is the sum of impressions for each channel.
-- **CPC (Cost per Click)** is calculated by dividing the total `spended` by the number of clicks.
+- **CPC (Cost per Click)** is calculated by dividing the total `spend` by the number of clicks.
 
 ### Tools
 
