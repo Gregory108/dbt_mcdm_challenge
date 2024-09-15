@@ -110,5 +110,5 @@ with
 
 select
     *,
-    views + comments + clicks + likes + shares as engagements  -- + comments + likes + shares + views as engagements
+    views + comments + clicks + likes + shares as engagements
 from union_ads
