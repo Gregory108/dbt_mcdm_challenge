@@ -1,0 +1,30 @@
+version: 2
+
+seeds:
+  - name: src_ads_bing_all_data
+    description: "Bing (TODO: improve)"
+    columns:
+      - name: ad_id
+        tests:
+          - not_null
+
+  - name: src_ads_creative_facebook_all_data
+    description: "Creative Facebook (TODO: improve)"
+    columns:
+      - name: ad_id
+        tests:
+          - not_null
+
+  - name: src_ads_tiktok_ads_all_data
+    description: "TikTok (TODO: improve)"
+    columns:
+      - name: ad_id
+        tests:
+          - not_null
+
+  - name: src_promoted_tweets_twitter_all_data
+    description: "Bing (TODO: improve)"
+    columns:
+      - name: campaign_id
+        tests:
+          - not_null
